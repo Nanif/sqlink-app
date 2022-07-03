@@ -1,0 +1,12 @@
+.hide-show-btn {
+    POSITION: ABSOLUTE;
+    right: 15px;
+    top: 28px;
+}
+
+.form-group {
+    position: relative;
+}
+.submit {
+    margin-top: 15px;
+}
